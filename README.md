@@ -1,1 +1,1 @@
-# vuirix-privacy-policy
+# vurix-privacy-policy
